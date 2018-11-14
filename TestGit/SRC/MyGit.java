@@ -7,6 +7,7 @@ public class MyGit {
 	}
 	public void testGit(){
 		System.out.println("hello,remote");
+		int b = 2;
 	}
 	
 	public void testmerge(){
