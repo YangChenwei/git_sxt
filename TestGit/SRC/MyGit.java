@@ -8,4 +8,7 @@ public class MyGit {
 	public void testGit(){
 		System.out.println("hello,remote");
 	}
+	
+	public void testmerge(){
+	}
 }
